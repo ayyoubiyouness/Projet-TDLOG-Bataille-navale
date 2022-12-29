@@ -186,3 +186,4 @@ def map_to_battlefield_entity(battlefield: Battlefield) -> BattlefieldEntity:
     battlefield_entity.min_z = battlefield.min_z
     battlefield_entity.max_power = battlefield.max_power
     return battlefield_entity
+
