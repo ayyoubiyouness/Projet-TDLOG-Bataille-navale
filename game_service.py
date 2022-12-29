@@ -17,3 +17,5 @@ class GameService:
         # à implementer
         def get_game_status(self, game_id: int, shooter_name: str) -> str:
         # à implementer
+
+        
